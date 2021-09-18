@@ -1,7 +1,7 @@
 # flights
 这是一个关于航班的可视化项目，数据的时间范围为2019年1月至2020年9月
 
-数据来源：https://zenodo.org/record/4088202#.X7-vq80zaUk
+数据来源：https://zenodo.org/record/4088202#.X7-vq80zaUk （缺少中国大陆的航班数据）
 
 1.全球机场的分布，按所属大洲着色   （使用工具：keplergl）
 
